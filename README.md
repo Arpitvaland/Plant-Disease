@@ -1,4 +1,4 @@
-# Plant-Disease-
+# Plant-Disease
 
 ## Abstract
 
